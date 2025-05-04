@@ -1,3 +1,5 @@
+## 🔄 Widget Switcher 동적 버튼 추가 기능 (PreConstruct 구현)
+
 ### 📌 개발 배경
 
 `Character`와 관련된 정보를 출력하는 탭 방식의 Window 프로토타입 제작 과정에서,  
